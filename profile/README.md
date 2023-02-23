@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Seltenet <3 Github
+## Seltenet :heart: Github
 
 🙋‍♀️ Seltenet Technology is a AI powered software company
 
